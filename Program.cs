@@ -22,7 +22,14 @@
                 {
                     case 1:
                         {
-                            addressBook.AddContact();
+                            try
+                            {
+                                addressBook.AddContact();
+                            }
+                            catch (Exception e)
+                            {
+                                Console.WriteLine();
+                            }
                             break;
                         }
                     case 2:

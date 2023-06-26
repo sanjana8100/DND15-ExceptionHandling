@@ -32,8 +32,22 @@ namespace DND15_ExceptionHandling
             string zip = Console.ReadLine();
 
             Contact contact = new Contact(name, email, phone, state, city, zip);
-            ContactList.Add(contact);
-            Console.WriteLine("Contact Added..");
+
+            bool duplicateContactFound = false;
+            foreach (Contact c in ContactList)
+            {
+                if(c.phone == phone || c.name == name)
+                {
+                    duplicateContactFound = true;
+                    throw new DuplicateContactException("DUPLICATE CONTACT FOUND!!! Please add contact with different attributes.");
+                }
+            }
+
+            if (!duplicateContactFound)
+            {
+                ContactList.Add(contact);
+                Console.WriteLine("Contact Added...");
+            }
         }
 
         public void EditContact()
