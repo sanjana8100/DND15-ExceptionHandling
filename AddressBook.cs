@@ -149,7 +149,9 @@ namespace DND15_ExceptionHandling
                 }
             }
             if (!contactFound)
-                Console.WriteLine("Contact with given name NOT FOUND!!!");
+            {
+                throw new Exception("CONTACT NOT FOUND!!! Please enter the name of an existing contact.");
+            }      
         }
 
         public void DisplayContact()
@@ -169,7 +171,9 @@ namespace DND15_ExceptionHandling
                 }
             }
             if (!contactFound)
-                Console.WriteLine("Contact with given name NOT FOUND!!!");
+            {
+                throw new Exception("CONTACT NOT FOUND!!! Please enter the name of an existing contact.");
+            }
         }
 
         public void Display()
