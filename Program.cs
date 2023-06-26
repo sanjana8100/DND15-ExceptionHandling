@@ -26,15 +26,22 @@
                             {
                                 addressBook.AddContact();
                             }
-                            catch (Exception e)
-                            {
-                                Console.WriteLine();
+                            catch (Exception e) 
+                            { 
+                                Console.WriteLine(e.Message); 
                             }
                             break;
                         }
                     case 2:
                         {
-                            addressBook.EditContact();
+                            try
+                            {
+                                addressBook.EditContact();
+                            }
+                            catch (Exception e) 
+                            { 
+                                Console.WriteLine(e.Message); 
+                            }
                             break;
                         }
                     case 3:

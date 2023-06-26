@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace DND15_ExceptionHandling
 {
@@ -23,6 +26,11 @@ namespace DND15_ExceptionHandling
             this.state = state;
             this.city = city;
             this.zipcode = zipcode;
+        }
+
+        public override string ToString()
+        {
+            return $"Name: {name}\nEmail: {email}\nPhone: {phone}\nState: {state}\nCity: {city}\nZip: {zipcode}";
         }
     }
 }
