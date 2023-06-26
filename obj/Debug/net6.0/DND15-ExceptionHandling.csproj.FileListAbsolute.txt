@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\bin\Debug\net6.0\DND15-ExceptionHandling.exe
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\bin\Debug\net6.0\DND15-ExceptionHandling.deps.json
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\bin\Debug\net6.0\DND15-ExceptionHandling.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\bin\Debug\net6.0\DND15-ExceptionHandling.dll
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\bin\Debug\net6.0\DND15-ExceptionHandling.pdb
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.dll
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\refint\DND15-ExceptionHandling.dll
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.pdb
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\DND15-ExceptionHandling.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND15-ExceptionHandling\DND15-ExceptionHandling\obj\Debug\net6.0\ref\DND15-ExceptionHandling.dll
